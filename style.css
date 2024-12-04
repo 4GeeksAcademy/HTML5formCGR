@@ -1,0 +1,33 @@
+body{
+    margin: auto;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+}
+
+
+
+h1{
+    text-align: left;
+}
+
+.amount{
+    display: flex;
+}
+
+.radio-container {
+    background-color: #636060;
+    border-radius: 5px; 
+    padding: 10px;
+    display: inline-block; 
+}
+.radio-container .form-check-input {
+    margin-right: 5px; 
+}
+.radio-container label {
+    margin-right: 15px; 
+}
+.radio-container label i {
+    filter: invert(1); 
+}
+
